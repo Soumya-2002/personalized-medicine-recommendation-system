@@ -1,0 +1,33 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+*.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models / Large files
+*.pkl
+*.h5
+trained_model/
+models/
+*.joblib
+
+# Logs
+*.log
+
+# Secrets
+.env
